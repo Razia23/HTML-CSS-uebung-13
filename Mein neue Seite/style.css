@@ -1,0 +1,87 @@
+body{
+    background-image: url("https://www.hausundgrund.de/verein/wadgassen-bous-ueberherrn/sites/default/files/styles/hug_topic_sm/public/2020-09/Share%20Deals%20AdobeStock_97870953.jpg?itok=pYrlS6u7");
+    background-size: cover;
+    background-repeat: no-repeat;  
+    background-position: fixed;
+}
+
+header
+{
+    width: 100%;
+    color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgba(44, 7, 189, 0.23);
+    margin-top: 5px;
+
+}
+header img{
+    width: 100px;
+}
+
+header div ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    align-items: center;
+}
+header div ul li a {
+    text-decoration-line: none;
+    color: antiquewhite;
+}
+    header div ul li{
+        padding: 10px;
+ }
+ div{
+    display: flex;
+    flex-wrap: wrap;
+}
+main{
+    justify-content: flex-start;
+    width: 100%;
+    align-items: flex-start;
+}
+.bilder {
+    display: flex;
+    flex-wrap: wrap;
+}
+footer{
+    background-color: rgba(182, 182, 246, 0.25);
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+footer .dau p a{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    color: aliceblue;
+    justify-content: space-around;
+    background-color: rgba(203, 191, 250, 0.23);
+    margin-top: 5px;
+
+}
+footer img{
+    width: 100%;
+}
+footer div .dua p
+ {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    color: rgb(129, 178, 238);
+ }
+
+ main .b p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+    color: antiquewhite;
+    font-weight: 10px;
+ }
